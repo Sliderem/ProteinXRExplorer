@@ -69,7 +69,8 @@ No viewer or XR code changes.
 | pytest (9 tests, offline fixtures) | Passing |
 | TypeScript check + production build | Passing |
 | Desktop viewer (rotate, zoom, auto-rotate, reset, fullscreen, loading/errors, `/protein/ID`) | Implemented; page render and unknown-ID error checked with headless Chrome. Mouse/touch/fullscreen interactions not exercised by an automated test |
-| WebXR VR / MR sessions, controller grab, thumbstick scale, reset, exit | Implemented, **unverified on a real headset** (see `docs/quest-testing.md`) |
+| WebXR VR and MR sessions | **Verified on a Meta Quest 3** (2026-11-21, owner-reported): VR works well, MR passthrough works and is the preferred mode |
+| Controller grab, thumbstick scale, A/X reset, B/Y exit | Implemented; the owner's test did not record each control individually, so confirm them with the checklist in `docs/quest-testing.md` |
 | Model quality | Backbone tube, not a cartoon (see above) |
 | Vercel | Prepared (`web/vercel.json`), not deployed |
 

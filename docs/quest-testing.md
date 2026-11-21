@@ -1,6 +1,12 @@
 # Testing on Meta Quest 3
 
-**Status: none of the XR features have been verified on a physical headset.** Use this checklist and record results.
+**Status (2026-11-21, 0.1.0-alpha.1):** the project owner tested on a physical Meta Quest 3 over a secure public tunnel. VR mode worked well and MR (passthrough) worked even better. Individual controls and frame rate were not recorded, so the checklist below stays open until each item is ticked.
+
+Test results log:
+
+| Date | Device / browser | Result |
+|---|---|---|
+| 2026-11-21 | Meta Quest 3, Quest Browser, HTTPS tunnel | VR and MR sessions start and run well (owner-reported) |
 
 ## Getting HTTPS to the headset
 
