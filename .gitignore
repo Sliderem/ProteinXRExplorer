@@ -6,3 +6,7 @@ web/dist/
 *.log
 .DS_Store
 web/.certs/
+
+.vercel/
+.env
+.env.*

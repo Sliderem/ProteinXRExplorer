@@ -14,7 +14,7 @@ build_glb.py         -> model.glb          Three.js viewer + WebXR (TypeScript, 
 generate_metadata.py -> metadata.json
 ```
 
-Python produces static files; the browser only loads them. Nothing needs a server, so Vercel hosting later is straightforward.
+Python produces static files; the browser only loads them. Vercel serves the static build over HTTPS.
 
 ## Quick start (Linux/macOS)
 
@@ -72,7 +72,7 @@ No viewer or XR code changes.
 | WebXR VR and MR sessions | **Verified on a Meta Quest 3** (2026-11-21, owner-reported): VR works well, MR passthrough works and is the preferred mode |
 | Controller grab, thumbstick scale, A/X reset, B/Y exit | Implemented; the owner's test did not record each control individually, so confirm them with the checklist in `docs/quest-testing.md` |
 | Model quality | Backbone tube, not a cartoon (see above) |
-| Vercel | Prepared (`web/vercel.json`), not deployed |
+| Vercel | Live at [protein-xr-explorer.vercel.app](https://protein-xr-explorer.vercel.app). See the [deployment runbook](docs/deployment.md). |
 
 ## Licence
 
