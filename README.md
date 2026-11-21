@@ -74,6 +74,10 @@ No viewer or XR code changes.
 | Model quality | Backbone tube, not a cartoon (see above) |
 | Vercel | Prepared (`web/vercel.json`), not deployed |
 
+## Licence
+
+Code and documentation: [MIT](LICENSE). The protein structure data comes from AlphaFold DB and is licensed CC-BY 4.0; keep the credit to AlphaFold DB (see `docs/scientific-sources.md`).
+
 ## Limitations
 
 - Predicted structure only; it does not show ovalbumin after heating, and no temperature or starch effect is simulated.
