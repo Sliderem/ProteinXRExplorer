@@ -1,0 +1,38 @@
+{
+  "file": "AF-P01012-F1.pdb",
+  "chains": [
+    {
+      "id": "A",
+      "residueCount": 386,
+      "firstResidue": 1,
+      "lastResidue": 386,
+      "sequence": "MGSIGAASMEFCFDVFKELKVHHANENIFYCPIAIMSALAMVYLGAKDSTRTQINKVVRFDKLPGFGDSIEAQCGTSVNVHSSLRDILNQITKPNDVYSFSLASRLYAEERYPILPEYLQCVKELYRGGLEPINFQTAADQARELINSWVESQTNGIIRNVLQPSSVDSQTAMVLVNAIVFKGLWEKAFKDEDTQAMPFRVTEQESKPVQMMYQIGLFRVASMASEKMKILELPFASGTMSMLVLLPDEVSGLEQLESIINFEKLTEWTSSNVMEERKIKVYLPRMKMEEKYNLTSVLMAMGITDVFSSSANLSGISSAESLKISQAVHAAHAEINEAGREVVGSAEAGVDAASVSEEFRADHPFLFCIKHIATNAVLFFGRCVSP"
+    }
+  ],
+  "residueCount": 386,
+  "atomCount": 3005,
+  "coordinateRangeAngstrom": {
+    "x": [
+      -34.58,
+      39.18
+    ],
+    "y": [
+      -26.15,
+      26.82
+    ],
+    "z": [
+      -27.75,
+      28.93
+    ]
+  },
+  "maxDimensionAngstrom": 73.8,
+  "plddt": {
+    "mean": 92.1,
+    "fractionByBand": {
+      "veryHigh": 0.821,
+      "confident": 0.109,
+      "low": 0.047,
+      "veryLow": 0.023
+    }
+  }
+}

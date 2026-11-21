@@ -1,0 +1,12 @@
+{
+  "defaultProtein": "P01012",
+  "proteins": [
+    {
+      "id": "P01012",
+      "name": "Ovalbumin",
+      "organism": "Gallus gallus",
+      "model": "/proteins/P01012/model.glb",
+      "metadata": "/proteins/P01012/metadata.json"
+    }
+  ]
+}

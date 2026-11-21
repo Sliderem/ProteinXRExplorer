@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/protein/:id", "destination": "/index.html" }]
+}

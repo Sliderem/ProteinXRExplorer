@@ -1,0 +1,8 @@
+{
+  "name": "Ovalbumin",
+  "description": "A major protein found in chicken egg white.",
+  "display": {
+    "initialRotationDegrees": [0, 0, 0],
+    "colouring": "AlphaFold confidence (pLDDT)"
+  }
+}

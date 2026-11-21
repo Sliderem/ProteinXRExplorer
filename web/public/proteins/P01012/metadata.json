@@ -1,0 +1,61 @@
+{
+  "id": "P01012",
+  "name": "Ovalbumin",
+  "organism": "Gallus gallus",
+  "description": "A major protein found in chicken egg white.",
+  "source": {
+    "database": "AlphaFold DB",
+    "accession": "AF-P01012-F1",
+    "uniprot": "P01012",
+    "modelVersion": 6,
+    "url": "https://alphafold.ebi.ac.uk/entry/P01012",
+    "uniprotUrl": "https://www.uniprot.org/uniprotkb/P01012/entry",
+    "licence": "CC-BY 4.0 (AlphaFold DB)",
+    "attribution": "Jumper et al. 2021; Varadi et al. 2024 (AlphaFold Protein Structure Database)"
+  },
+  "structure": {
+    "type": "predicted",
+    "notice": "This is a computer-predicted structure from AlphaFold DB. It is not an experimentally measured structure, and it does not show the protein after heating.",
+    "chains": [
+      {
+        "id": "A",
+        "residueCount": 386
+      }
+    ],
+    "residueCount": 386,
+    "atomCount": 3005,
+    "maxDimensionAngstrom": 73.8,
+    "meanPlddt": 92.1
+  },
+  "model": {
+    "representation": "Backbone trace (C-alpha tube)",
+    "colouring": "AlphaFold confidence (pLDDT)",
+    "legend": [
+      {
+        "label": "Very high (>90)",
+        "colour": "#0053D6"
+      },
+      {
+        "label": "Confident (70-90)",
+        "colour": "#65CBF3"
+      },
+      {
+        "label": "Low (50-70)",
+        "colour": "#FFDB13"
+      },
+      {
+        "label": "Very low (<50)",
+        "colour": "#FF7D45"
+      }
+    ],
+    "legendNote": "pLDDT is AlphaFold's confidence in the predicted position of each residue. It is not a measure of stability or of how the protein reacts to heat."
+  },
+  "display": {
+    "initialRotationDegrees": [
+      0,
+      0,
+      0
+    ],
+    "colouring": "AlphaFold confidence (pLDDT)"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "database": "AlphaFold Protein Structure Database",
+  "uniprot": "P01012",
+  "entryId": "AF-P01012-F1",
+  "modelVersion": 6,
+  "modelCreatedDate": "2025-08-01T00:00:00Z",
+  "organism": "Gallus gallus",
+  "gene": "SERPINB14",
+  "proteinDescription": "Ovalbumin",
+  "globalPlddt": 92.12,
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-P01012-F1-model_v6.pdb",
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-P01012-F1-model_v6.cif",
+  "apiUrl": "https://alphafold.ebi.ac.uk/api/prediction/P01012",
+  "entryPage": "https://alphafold.ebi.ac.uk/entry/P01012",
+  "licence": "CC-BY 4.0 (AlphaFold DB)",
+  "downloadedAt": "2026-11-21T15:46:52+00:00",
+  "file": "AF-P01012-F1.pdb"
+}
